@@ -1,0 +1,5 @@
+# Attributregister
+
+|Kürzel|Attribut|Beschreibung|
+|-|-|-|
+||||
