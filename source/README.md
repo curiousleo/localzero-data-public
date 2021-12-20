@@ -4,6 +4,6 @@
 |-|-|-|-|-|
 ||||||
 
-# Nomenklartur Quellenkürzel
+# Nomenklatur Quellenkürzel
 
 Kürzel werden nach Schema *TODO* erstellt.
