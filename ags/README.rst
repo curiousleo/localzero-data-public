@@ -3,6 +3,8 @@ AGS Master list
 
 This list contains only AGS, where no change to the AGS (such as integration of another AGS) happened since the beginning of 2018.  It does not contain AGS that had events happen to it since 2018 because those the generator cannot deal with anyway.
 
+The AGS list includes AGS for states, districts and cities in Germany including the one for Germany itself.
+
 Generated this way:
 
 .. code-block:: console
