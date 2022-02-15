@@ -12,6 +12,10 @@ Die Daten werden jährlich bei allen Großunternehmen mit mindestens 250 000 Fa
 Stichprobenunternehmen mit weniger als 250 000 Fahrgästen erhoben. Die Angaben im Linienennahverkehr
 zur Fahrleistung beziehen sich auf den Kreis der tatsächlichen Leistungserbringung (NUTS 3-Ebene).
 
+Contains "Insgesamt [Mio. Fahrzeug-km]"	"Eisenbahn [Mio. Fz-km]"	"SSU-Bahn [Mio. Fz-km]"	"Omnibus [Mio. Fz-km]"
+for all Landkreise (XXXXX000)
+
+
 ======================
 Changes GermanZero:
 
