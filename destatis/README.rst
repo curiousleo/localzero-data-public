@@ -1,5 +1,6 @@
 Destatis Traffic Data
-=====
+=====================
+
 Quelle: Destatis  "Verkehr:  Personenverkehr mit Bussen und Bahnen" (2018) - 1.10   
 Fahrleistungen im Schienen- und Liniennahverkehr nach Art des Verkehrsmittels und Kreisen  S. 27-31
 
@@ -16,11 +17,14 @@ Contains "Insgesamt [Mio. Fahrzeug-km]"	"Eisenbahn [Mio. Fz-km]"	"SSU-Bahn [Mio.
 for all Landkreise (XXXXX000)
 
 
-======================
 Changes GermanZero:
+-------------------
 
-- transferred Data from old "Aachen, Kreis" (05354000) to "Düren, Kreis" (05358000), because
+transferred Data from old "Aachen, Kreis" (05354000) to "Düren, Kreis" (05358000), because
 we assumed a data error as the ags key 05334000 occured twice. 
+
+.. code-block::
+
     from:
     05334000,20.2,1.4,0.0,18.7  <- "Städteregion Aachen (einschl. Stadt Aachen)"
     05354000,8.8,1.1,0.0,7.8    <- "Aachen, Kreis"
