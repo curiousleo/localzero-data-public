@@ -8,4 +8,4 @@ This list contains only AGS values on the state level (Bundesländer) and the na
 ===============
 Changes by GermanZero
 
-Added 0 for the Emissions for "cattle_n2oe","pigs_ch4e" and "pigs_n2oe" in Berlin (11000000), Bremen (04000000) and Hamburg (02000000) instead of "-".
+11.02.2022 Added 0 for the Emissions for "cattle_n2oe","pigs_ch4e" and "pigs_n2oe" in Berlin (11000000), Bremen (04000000) and Hamburg (02000000) instead of "-".
