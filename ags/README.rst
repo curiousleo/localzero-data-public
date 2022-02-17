@@ -27,3 +27,8 @@ Changes German Zero:
 - updated "13058119","Wedendorfersee" to correct AGS "13074092","Wedendorfersee"
 
 - Removed Landkreis "03156000","Osterode am Harz" as it was incorperated into Landkreis Göttingen "03159000" in 2016
+
+17.02.2022
+~~~~~~~~~~
+
+- Include Greifswald "13075039" in master.csv. There was a change in 2021: the name was updated, the AGS was unaffected
