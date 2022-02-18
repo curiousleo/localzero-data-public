@@ -32,3 +32,12 @@ Changes German Zero:
 ~~~~~~~~~~
 
 - Include Greifswald "13075039" in master.csv. There was a change in 2021: the name was updated, the AGS was unaffected
+
+
+KE Team list
+===============
+
+18.02.2022 
+~~~~~~~~~~
+
+The KE list includes all active, currently inactive and befriended teams according to https://mitmachen-wiki.germanzero.org/wiki/index.php?title=Klimaentscheide:Klimaentscheid-Teams
