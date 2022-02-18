@@ -1,7 +1,9 @@
-AGS Master list
+AGS Master and KE list
 ===============
 
-This list contains only AGS, where no change to the AGS (such as integration of another AGS) happened since the beginning of 2018.  It does not contain AGS that had events happen to it since 2018 because those the generator cannot deal with anyway.
+The KE list includes all active, currently inactive and befriended teams according to https://mitmachen-wiki.germanzero.org/wiki/index.php?title=Klimaentscheide:Klimaentscheid-Teams 
+
+This Master list contains only AGS, where no change to the AGS (such as integration of another AGS) happened since the beginning of 2018.  It does not contain AGS that had events happen to it since 2018 because those the generator cannot deal with anyway.
 
 The AGS list includes AGS for states, districts and cities in Germany including the one for Germany itself.
 
@@ -33,11 +35,3 @@ Changes German Zero:
 
 - Include Greifswald "13075039" in master.csv. There was a change in 2021: the name was updated, the AGS was unaffected
 
-
-KE Team list
-===============
-
-18.02.2022 
-~~~~~~~~~~
-
-The KE list includes all active, currently inactive and befriended teams according to https://mitmachen-wiki.germanzero.org/wiki/index.php?title=Klimaentscheide:Klimaentscheid-Teams
