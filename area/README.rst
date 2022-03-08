@@ -1,7 +1,9 @@
 Area
 =====
 
-TODO: Add URL where we got the data from.
+Data Overview: https://www-genesis.destatis.de/genesis/online?sequenz=statistikTabellen&selectionname=33111#abreadcrumb
+
+*Bodenflächen* und *Siedlungsflächen* extracted from there.
 
 © Statistische Ämter des Bundes und der Länder, Deutschland, 2020.	
 Dieses Werk ist lizenziert unter der Datenlizenz Deutschland	
