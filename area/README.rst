@@ -1,7 +1,20 @@
 Area
 =====
-
+Data provided by Statistische Ämter des Bundes und der Länder, Deutschland.
 Data Overview: https://www-genesis.destatis.de/genesis/online?sequenz=statistikTabellen&selectionname=33111#abreadcrumb
+
+- land_total -> Gesamtfläche (*from Bodenflächen*)
+- land_settlement -> Siedlungsfläche (*from Bodenflächen*)
+- land_traffic -> Verkehrsfläche (*from Bodenflächen*)
+- veg_agri -> Vegetationsfläche Landwirtschaft (*from Bodenflächen*)
+- veg_forrest -> Vegetationsfläche Wald (*from Bodenflächen*)
+- veg_wood -> Vegetationsfläche Gehölz (*from Bodenflächen*)
+- veg_heath -> Vegetationsfläche Heide (*from Bodenflächen*)
+- veg_moor -> Vegetationsfläche Moor (*from Bodenflächen*)
+- veg_marsh -> Vegetationsfläche Sumpf (*from Bodenflächen*)
+- veg_plant_uncover_com -> Vegetationsfläche Unland, Vegetationslose Fläche (*from Bodenflächen*)
+- water_total -> Gewässerfläche Gesamt (*from Bodenflächen*)
+- settlement_ghd -> Industrie- und Gewerbefläche, Industrie und Gewerbe	(*from Siedlungsflächen*)
 
 *Bodenflächen* und *Siedlungsflächen* extracted from there.
 
