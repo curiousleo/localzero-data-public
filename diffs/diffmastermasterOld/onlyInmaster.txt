@@ -1,0 +1,457 @@
+01053034 Göldenitz
+01053002 Alt Mölln
+01059189 Brodersby-Goltoft
+01059188 Stapel
+01061082 Oldendorf
+01061083 Ottenbüttel
+01061030 Grevenkop
+01061055 Krempe, Stadt
+03153007 Langelsheim, Stadt
+03153006 Hahausen
+03153009 Lutter am Barenberge, Flecken
+03153014 Wallmoden
+03256006 Estorf
+03256016 Husum
+03256017 Landesbergen
+03256018 Leese
+03256032 Stolzenau
+03355022 Lüneburg, Hansestadt
+03358004 Bomlitz
+03358022 Walsrode, Stadt
+03360001 Altenmedingen
+03360002 Bad Bevensen, Stadt
+03360003 Barum
+03360006 Ebstorf,Klosterflecken
+03360008 Emmendorf
+03360010 Hanstedt
+03360011 Himbergen
+03360012 Jelmstorf
+03360014 Natendorf
+03360017 Römstedt
+03360019 Schwienau
+03360026 Weste
+03360029 Wriedel
+03360005 Bad Bodenteich, Flecken
+03360013 Lüder
+03360020 Soltendieck
+05382008 Bad Honnef, Stadt
+05554060 Südlohn
+06433011 Riedstadt, Stadt
+06434009 Schmitten
+06438013 Seligenstadt, Stadt
+06531007 Heuchelheim
+06533009 Limburg a.d. Lahn, Kreisstadt
+06633021 Oberweser
+06633027 Wahlsburg
+06633028 Wolfhagen, Stadt
+06634004 Frielendorf
+06635009 Edertal
+06635010 Frankenau, Stadt
+06635011 Frankenberg (Eder), Philipp-Soldan-Stadt
+06635019 Vöhl
+06635021 Waldeck, Stadt
+07132074 Neitersen
+07132084 Obernau
+07132002 Alsdorf
+07133006 Bad Kreuznach, Stadt
+07133035 Guldental
+07143013 Eitelborn
+07143052 Neuhäusel
+07232018 Bitburg, Stadt
+07232109 Rittersdorf
+07235004 Bekond
+07235125 Schweich, Stadt
+07336102 Waldmohr
+07339027 Heidesheim am Rhein
+07339061 Wackernheim
+07340011 Fischbach bei Dahn
+07340029 Ludwigswinkel
+08125058 Leingarten
+09190115 Bernried am Starnberger See
+09377142 Neualbenreuth, M
+09673117 Bischofsheim a.d.Rhön, St
+10042115 Perl
+12061316 Lübben (Spreewald), Stadt
+12061329 Märkische Heide
+12061005 Alt Zauche-Wußwerk
+12061061 Byhleguhre-Byhlen
+12061352 Neu Zauche
+12061450 Schwielochsee
+12061470 Spreewaldheide
+12061428 Schlepzig
+12063036 Brieselang
+12063080 Falkensee, Stadt
+12065251 Oberkrämer
+12066052 Calau, Stadt
+12066112 Großräschen, Stadt
+12066196 Lübbenau/Spreewald, Stadt
+12066304 Senftenberg, Stadt
+12066320 Vetschau/Spreewald, Stadt
+12066226 Neu-Seeland
+12066228 Neupetershain
+12069304 Kleinmachnow
+12069604 Stahnsdorf
+12071057 Drebkau, Stadt
+12071076 Forst (Lausitz), Stadt
+12071244 Kolkwitz
+12071301 Neuhausen/Spree
+12071337 Schenkendöbern
+12071372 Spremberg, Stadt
+12071408 Welzow, Stadt
+12071028 Briesen
+12071032 Burg (Spreewald)
+12071041 Dissen-Striesow
+12071164 Guhrow
+12071341 Schmogrow-Fehrow
+12071412 Werben
+12071044 Döbern, Stadt
+12071074 Felixsee
+12071294 Neiße-Malxetal
+12071392 Tschernitz
+12071414 Wiesengrund
+12071052 Drachhausen
+12071060 Drehnow
+12071176 Heinersbrück
+12071193 Jänschwalde
+12071304 Peitz, Stadt
+12071384 Tauer
+12071386 Teichland
+12071401 Turnow-Preilack
+12073505 Schöneberg
+13071107 Neubrandenburg, Stadt
+13071110 Neustrelitz, Stadt
+13071038 Genzkow
+13071030 Duckow
+13071109 Neukalen, Stadt
+13071093 Malchow, Stadt
+13071005 Ankershagen
+13071046 Grabow-Below
+13071091 Ludorf
+13071095 Massow
+13071152 Vipperow
+13071165 Wredenhagen
+13071168 Zepkow
+13071149 Varchentin
+13071116 Petersdorf
+13071164 Woldegk, Stadt
+13072036 Graal-Müritz
+13072043 Güstrow, Stadt
+13072060 Kühlungsborn, Stadt
+13072106 Teterow, Stadt
+13072075 Nienhagen
+13072016 Boddin
+13072035 Gnoien, Stadt
+13072068 Lühburg
+13072025 Diekhof
+13072052 Kirch Mulsow
+13072085 Rerik, Stadt
+13073011 Binz
+13073105 Zingst
+13073002 Ahrenshoop
+13073017 Dierhagen
+13073067 Prerow
+13073103 Wustrow
+13073006 Baabe
+13073031 Göhren
+13073084 Sellin
+13073107 Mönchgut
+13073047 Kummerow
+13073058 Neu Bartelshagen
+13073075 Ribnitz-Damgarten, Stadt
+13073040 Insel Hiddensee
+13074035 Insel Poel
+13074063 Plüschow
+13074010 Boltenhagen
+13074029 Groß Siemz
+13074045 Lockwisch
+13074058 Niendorf
+13075005 Anklam, Stadt
+13075049 Heringsdorf
+13075136 Ueckermünde, Stadt
+13075028 Diedrichshagen
+13075083 Lubmin
+13075058 Karlshagen
+13075133 Trassenheide
+13075151 Zinnowitz
+13075066 Koserow
+13075080 Loddin
+13075135 Ückeritz
+13075148 Zempin
+13075057 Karlsburg
+13075086 Lühmannsdorf
+13076043 Gischow
+13076095 Marnitz
+13076132 Suckow
+13076137 Tessenow
+13076123 Setzin
+13076139 Toddin
+13076084 Leussow
+14521030 Aue, Stadt
+14521050 Bad Schlema
+14521170 Eibenstock, Stadt
+14521690 Zschopau, Stadt
+14522080 Döbeln, Stadt
+14522150 Frankenberg/Sa., Stadt
+14522330 Lichtenau
+14523010 Adorf/Vogtl., Stadt
+14523200 Markneukirchen, Stadt
+14523230 Mühlental
+14625020 Bautzen, Stadt
+14625110 Doberschau-Gaußig
+14625120 Elsterheide
+14625150 Göda
+14625160 Großdubrau
+14625230 Hochkirch
+14625240 Hoyerswerda, Stadt
+14625280 Königswartha
+14625290 Kubschütz
+14625330 Lohsa
+14625340 Malschwitz
+14625490 Radibor
+14625570 Spreetal
+14625610 Weißenberg, Stadt
+14625640 Wittichenau, Stadt
+14625190 Großpostwitz/O.L.
+14625390 Obergurig
+14625250 Kamenz, Stadt
+14625540 Schönteichen
+14625360 Neschwitz
+14625450 Pulsnitz, Stadt
+14625080 Crostwitz
+14625350 Nebelschütz
+14625440 Panschwitz-Kuckau
+14625470 Räckelwitz
+14625500 Ralbitz-Rosenthal
+14626060 Boxberg/O.L.
+14626250 Krauschwitz i.d. O.L.
+14626010 Bad Muskau, Stadt
+14626100 Gablenz
+14626260 Kreba-Neudorf
+14626460 Rietschen
+14626120 Groß Düben
+14626490 Schleife
+14626560 Trebendorf
+14626590 Weißkeißel
+14626600 Weißwasser/O.L., Stadt
+14626190 Hohendubrau
+14626320 Mücka
+14627100 Klipphausen
+14627180 Nossen, Stadt
+14729070 Brandis, Stadt
+14729300 Naunhof, Stadt
+16061025 Dingelstädt, Stadt
+16061046 Helmsdorf
+16061054 Kallmerode
+16061055 Kefferhausen
+16061061 Kreuzebra
+16061087 Silberhausen
+16061022 Deuna
+16061038 Gerterode
+16061043 Hausen
+16061059 Kleinbartloff
+16061004 Bernterode (bei Heilbad Heiligenstadt)
+16062014 Hainrode/Hainleite
+16062039 Nohra
+16062058 Wipperdorf
+16062059 Wolkramshausen
+16062002 Bleicherode, Stadt
+16062006 Etzelsrode
+16062007 Friedrichsthal
+16062025 Kleinbodungen
+16062029 Kraja
+16063094 Moorgrund
+16063007 Berka/Werra, Stadt
+16063014 Dankmarshausen
+16063017 Dippach
+16063036 Großensee
+16063009 Brunnhartshausen
+16063059 Neidhartshausen
+16063072 Stadtlengsfeld, Stadt
+16063081 Urnshausen
+16063093 Zella/Rhön
+16063013 Creuzburg, Stadt
+16063019 Ebenshausen
+16063039 Ifta
+16063055 Mihla
+16063016 Diedorf/Rhön
+16063102 Kaltennordheim, Stadt
+16064066 Weinbergen
+16064036 Klettstedt
+16064001 Altengottern
+16064017 Flarchheim
+16064018 Großengottern
+16064023 Heroldishausen
+16064047 Mülverstedt
+16064065 Weberstedt
+16064008 Bothenheilingen
+16064029 Issersheilingen
+16064035 Kleinwelsbach
+16064048 Neunheilingen
+16064052 Obermehler
+16064057 Schlotheim, Stadt
+16065002 Artern/Unstrut, Stadt
+16065061 Roßleben, Stadt
+16065011 Bretleben
+16065022 Gorsleben
+16065031 Hauteroda
+16065033 Heldrungen, Stadt
+16065034 Hemleben
+16065054 Oldisleben
+16065023 Greußen, Stadt
+16065084 Großenehrich, Stadt
+16065035 Heygendorf
+16065039 Ichstedt
+16065047 Nausitz
+16065057 Ringleben
+16065076 Voigtstedt
+16065072 Thüringenhausen
+16065082 Wolferschwenda
+16065013 Donndorf
+16065081 Wiehe, Stadt
+16066006 Benshausen
+16066001 Altersbach
+16066008 Bermbach
+16066051 Oberschönau, Kurort
+16066062 Rotterode
+16066077 Unterschönau
+16066082 Viernau
+16066002 Aschenhausen
+16066035 Kaltensundheim
+16066036 Kaltenwestheim
+16066043 Melpers
+16066048 Oberkatz
+16066078 Unterweid
+16066033 Hümpfershausen
+16066044 Metzels
+16066053 Oepfershausen
+16066075 Unterkatz
+16066083 Wahns
+16066084 Wallbach
+16066085 Walldorf
+16066088 Wölfershausen
+16066028 Henneberg
+16066042 Meiningen, Stadt
+16066071 Stepfershausen
+16067083 Leinatal
+16067025 Georgenthal/Thür. Wald
+16067039 Hohenkirchen
+16067054 Petriroda
+16067003 Ballstädt
+16067005 Brüheim
+16067006 Bufleben
+16067021 Friedrichswerth
+16067027 Goldbach
+16067035 Haina
+16067037 Hochheim
+16067056 Remstädt
+16067074 Wangenheim
+16067075 Warza
+16067078 Westhausen
+16067008 Crawinkel
+16067032 Gräfenhain
+16067081 Wölfis
+16067089 Drei Gleichen
+16068006 Buttstädt, Stadt
+16068008 Ellersleben
+16068011 Eßleben-Teutleben
+16068016 Großbrembach
+16068023 Guthmannshausen
+16068024 Hardisleben
+16068031 Kleinbrembach
+16068035 Mannstedt
+16068038 Olbersleben
+16068046 Rudersdorf
+16068004 Bilzingsleben
+16068012 Frömmstedt
+16068027 Herrnschwende
+16068028 Kannawurf
+16068029 Kindelbrück, Stadt
+16068003 Beichlingen
+16068026 Henschleben
+16069002 Bad Colberg-Heldburg, Stadt
+16069015 Gompertshausen
+16069019 Hellingen
+16069039 Sachsenbrunn
+16070003 Angelroda
+16070019 Geraberg
+16070037 Neusiß
+16070002 Altenfeld
+16070005 Böhlen
+16070016 Friedersdorf
+16070022 Gillersdorf
+16070025 Großbreitenbach, Stadt
+16070027 Herschdorf
+16070038 Neustadt am Rennsteig
+16070052 Wildenspring
+16070014 Frankenhain
+16070017 Gehlberg
+16070021 Geschwenda
+16070023 Gossel
+16070024 Gräfenroda
+16070033 Liebenstein
+16070015 Frauenwald
+16070046 Schmiedefeld am Rennsteig
+16070049 Stützerbach
+16070031 Kirchheim
+16070044 Rockhausen
+16070053 Wipfratal
+16071006 Bechstedtstraß
+16071012 Daasdorf a. Berge
+16071034 Hopfgarten
+16071036 Isseroda
+16071057 Mönchenholzhausen
+16071065 Niederzimmern
+16071067 Nohra
+16071073 Ottstedt a. Berge
+16071088 Troistedt
+16071007 Berlstedt
+16071011 Buttelstedt, Stadt
+16071023 Großobringen
+16071028 Heichelheim
+16071039 Kleinobringen
+16071047 Krautheim
+16071051 Leutenthal
+16071076 Ramsla
+16071081 Rohrbach
+16071082 Sachsenhausen
+16071085 Schwerstedt
+16071092 Vippachedelhausen
+16071097 Wohlsborn
+16071044 Ködderitzsch
+16071099 Saaleplatte
+16071048 Kromsdorf
+16072024 Föritztal
+16072001 Bachfeld
+16073105 Remda-Teichel, Stadt
+16073112 Königsee-Rottenbach, Stadt
+16073056 Meuselbach-Schwarzmühle
+16073065 Oberweißbach/Thür. Wald, Stadt
+16073049 Lichte
+16073066 Piesau
+16073068 Reichmannsdorf
+16073079 Schmiedefeld
+16073021 Dröbischau
+16073054 Mellenbach-Glasbach
+16073063 Oberhain
+16074006 Bollberg
+16074069 Quirla
+16075008 Bucha
+16075018 Dreba
+16075049 Knau
+16075002 Birkenhügel
+16075003 Blankenberg
+16075004 Blankenstein
+16075042 Harra
+16075071 Neundorf (bei Lobenstein)
+16075086 Pottiga
+16075097 Schlegel
+16075013 Crispendorf
+16075061 Linda b. Neustadt an der Orla
+16075106 Stanau
+16075009 Burgk
+16076052 Neumühle/Elster
+16077002 Altkirchen
+16077004 Drogen
+16077029 Lumpzig
+16077037 Nöbdenitz
+16077051 Wildenbörten

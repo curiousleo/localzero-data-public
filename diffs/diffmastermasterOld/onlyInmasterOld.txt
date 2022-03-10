@@ -1,0 +1,31 @@
+01053105 Sachsenwald (Forstgutsbez.) gemfr.Geb.
+01060014 Buchholz (Forstgutsbez.) gemfr. Gebiet
+03151501 Giebel  gemfr. Gebiet
+03153504 Harz (Landkreis Goslar)  gemfr. Gebiet
+03154501 Brunsleberfeld  gemfr. Gebiet
+03154502 Helmstedt  gemfr. Gebiet
+03154503 Königslutter  gemfr. Gebiet
+03154504 Mariental  gemfr. Gebiet
+03154506 Schöningen  gemfr. Gebiet
+03155501 Solling (Landkreis Northeim)  gemfr. Geb.
+03158501 Am Großen Rhode  gemfr. Gebiet
+03158502 Barnstorf-Warle  gemfr. Gebiet
+03158503 Voigtsdahlum  gemfr. Gebiet
+03255501 Boffzen  gemfr. Gebiet
+03255502 Eimen  gemfr. Gebiet
+03255503 Eschershausen  gemfr. Gebiet
+03255504 Grünenplan  gemfr. Gebiet
+03255505 Holzminden  gemfr. Gebiet
+03255506 Merxhausen  gemfr. Gebiet
+03255508 Wenzen  gemfr. Gebiet
+03354501 Gartow  gemfr. Gebiet
+03354502 Göhrde  gemfr. Gebiet
+03452501 Nordseeinsel Memmert  gemfr. Gebiet
+03457501 Insel Lütje Hörn  gemfr. Gebiet
+06435200 Gutsbezirk Spessart  gemfr. Gebiet
+06633200 Gutsbezirk Reinhardswald  gemfr. Gebiet
+06636200 Gutsbezirk Kaufunger Wald  gemfr. Gebiet
+08317971 Rheinau  gemeindefreies Gebiet
+08415971 Gutsbezirk Münsingen  gemeindefreies Gebiet
+06431200 Michelbuch gemfr. Gebiet
+DG000000 Deutschland
