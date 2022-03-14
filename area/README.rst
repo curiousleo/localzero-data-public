@@ -3,6 +3,8 @@ Area Data
 Data provided by Statistische Ämter des Bundes und der Länder, Deutschland.
 Data Overview: https://www-genesis.destatis.de/genesis/online?sequenz=statistikTabellen&selectionname=33111#abreadcrumb
 
+(To get data on the communal level you need to create an account and log in!)
+
 - land_total -> Gesamtfläche (*from Bodenflächen*)
 - land_settlement -> Siedlungsfläche (*from Bodenflächen*)
 - land_traffic -> Verkehrsfläche (*from Bodenflächen*)
