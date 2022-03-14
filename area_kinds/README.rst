@@ -14,7 +14,7 @@ bmvi (Bundesministerium für Verkehr und digitale Infrastruktur) that categorize
 - **76**: Mittelstädte, städtischer Raum - ländliche Region
 - **77**: Kleinstädtischer, dörflicher Raum - ländliche Region
 
-The RegioStar7 is used in the transport 2018 calculation script.
+The RegioStar7 is used in the transport 2018 calculation script and can be found under https://www.bmvi.de/SharedDocs/DE/Artikel/G/regionalstatistische-raumtypologie.html.
 
 The Area kind categorization key also originates in the RegioStar7 key and categorizes into 3 categories:
 
