@@ -559,8 +559,8 @@ Fact_T_D_Air_dmstc_nat_trnsprt_gds_2019,ud,1587100000
 Fact_T_D_Air_dmstc_nat_ratio_2018,ud,0.05
 Fact_T_D_Air_inter_nat_ratio_2018,ud,0.95
 Fact_T_D_Air_nat_EB_2018,ui,121527777.77777778
-Fact_T_S_Air_nat_EB_dmstc_2018,ud,7805555.555555555
-Fact_T_S_Air_nat_EB_inter_2018,ud,113722222.22222222
+Fact_T_S_Air_nat_EB_dmstc_2018,ud,8174722.22222222
+Fact_T_S_Air_nat_EB_inter_2018,ud,113353055.5555560
 Fact_T_D_modal_split_foot_rt71,ud,1
 Fact_T_D_modal_split_foot_rt72,ud,1
 Fact_T_D_modal_split_foot_rt73,ud,1
