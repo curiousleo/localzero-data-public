@@ -3,7 +3,8 @@ Nat_Agri List
 
 This list contains only AGS values on the state level (Bundesländer) and the national AGS (DG000000). The data was originally published by the Thünen-Institute in the Thünen Report 77. 
 
--> TODO: paste URL and specify Tables
+TODO: paste URL and specify Tables
+We will add more information here later.
 
 Changes by GermanZero
 ---------------------

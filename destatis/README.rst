@@ -1,7 +1,7 @@
 Destatis Traffic Data
 =====================
 
-Quelle: Destatis  "Verkehr:  Personenverkehr mit Bussen und Bahnen" (2018) - 1.10   
+Source: Destatis  "Verkehr:  Personenverkehr mit Bussen und Bahnen" (2018) - 1.10   
 Fahrleistungen im Schienen- und Liniennahverkehr nach Art des Verkehrsmittels und Kreisen  S. 27-31
 
 
@@ -13,8 +13,12 @@ Die Daten werden jährlich bei allen Großunternehmen mit mindestens 250 000 Fa
 Stichprobenunternehmen mit weniger als 250 000 Fahrgästen erhoben. Die Angaben im Linienennahverkehr
 zur Fahrleistung beziehen sich auf den Kreis der tatsächlichen Leistungserbringung (NUTS 3-Ebene).
 
-Contains "Insgesamt [Mio. Fahrzeug-km]"	"Eisenbahn [Mio. Fz-km]"	"SSU-Bahn [Mio. Fz-km]"	"Omnibus [Mio. Fz-km]"
-for all Landkreise (XXXXX000)
+Data:
+- total_mega_km -> Insgesamt [Mio. Fahrzeug-km]
+- rail_mega_km -> Eisenbahn [Mio. Fz-km]
+- metro_mega_km -> SSU-Bahn [Mio. Fz-km]
+- bus_mega_km -> Omnibus [Mio. Fz-km]
+
 
 
 Changes GermanZero:

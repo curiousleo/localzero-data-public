@@ -1,10 +1,10 @@
 Buildings
-
-The buildings list originates in the Gebäudezensus 2011/2012. Manual changes were made to update the list to 2018 by Thomas Strauss and Manfred Schüssler.
-
-TODO URL + Doku 
-
 =========
+
+
+The buildings list originates in the Gebäudezensus 2011/2012. Manual changes were made to update the list to 2018 by Sascha Pfaffmann and Manfred Schüssler.
+
+https://www.zensus2011.de/DE/Home/Aktuelles/DemografischeGrunddaten.html -> Gebäude und Wohnungen
 
 Changes Leon und Hauke 11.02.2022
 

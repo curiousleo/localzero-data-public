@@ -1,5 +1,5 @@
 AGS Master and KE list
-===============
+=======================
 
 The keteamsList.csv list includes all active, currently inactive and befriended KE teams (German: KE - Klimaentscheid) according to https://mitmachen-wiki.germanzero.org/wiki/index.php?title=Klimaentscheide:Klimaentscheid-Teams
 
